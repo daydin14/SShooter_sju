@@ -1,0 +1,4 @@
+If you can see the enemy, and in range (300m) shoot at the enemy 
+If you see the enemy and not withing range, move within range and shoot the enemy of the enemy.
+If there is no enemy, but haven't visited the last known location, visit the location 
+Else, go to the next patrol point 
